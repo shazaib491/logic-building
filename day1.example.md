@@ -37,19 +37,6 @@
      4. Print `S.I.`.
      5. End.
 
-### 4. **Check if a Year is a Leap Year**
-   - **Question**: Ek flowchart banao jo check kare ki diya gaya year leap year hai ya nahi.
-   - **Logic**:
-     - Input lo: Year.
-     - Check karo: Agar `year % 4 == 0` aur `year % 100 != 0`, ya `year % 400 == 0`, toh leap year hai, warna nahi.
-   - **Flowchart Steps**:
-     1. Start.
-     2. Input a year.
-     3. Check: `year % 4 == 0`?
-     4. Agar Yes, then check `year % 100 != 0` aur `year % 400 == 0`.
-     5. Agar conditions true hain, print "Leap year", warna "Not a leap year".
-     6. End.
-
 ### 5. **Convert Celsius to Fahrenheit**
    - **Question**: Ek flowchart banao jo temperature Celsius se Fahrenheit mein convert kare.
    - **Logic**:
