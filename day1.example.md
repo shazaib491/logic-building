@@ -85,3 +85,7 @@
   5. Agar No, toh `quotient = num1 / num2` calculate karo.
   6. Print `quotient`.
   7. End.
+
+
+## 7. Refrence 
+- **Link**: https://technologystrive.com/flow-chart/even-odd
